@@ -3,8 +3,8 @@ name = "Gotmpl"
 version = "0.0.1"
 schema_version = 1
 authors = ["Mahmud Ridwan <m@hjr265.me>"]
-description = "Gotmpl support."
-repository = "https://github.com/hjr265/zed-extension-gotmpl"
+description = "Go template support, includes text/template (gotmpl) and html/template (gohtml)."
+repository = "https://github.com/hjr265/zed-gotmpl"
 
 [grammars.gotmpl]
 repository = "https://github.com/ngalaiko/tree-sitter-go-template"
