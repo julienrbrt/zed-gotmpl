@@ -1,6 +1,12 @@
 # Zed Extension for Go Templates
 
-A Zed extension providing rudimentary (includes syntax highlighting) support for Go templates (`text/template`, `html/template`).
+A Zed extension providing rudimentary (includes syntax highlighting) support for Go templates (`text/template` and `html/template`).
+
+![](examples/hello.gohtml.png)
+
+![](examples/hello.md.png)
+
+![](examples/hello.txt.gotmpl.png)
 
 ## Installation
 
