@@ -19,7 +19,7 @@ For bug reports or feature requests, please open an issue on the GitHub reposito
 ## Credits
 
 - [ArcherHume/jinja2-support](https://github.com/ArcherHume/jinja2-support) for Zed extension development clues.
-- [ngalaiko/tree-sitter-go-template](https://github.com/ngalaiko/tree-sitter-go-template) for the necessary Tree Sitter grammar.
+- [ngalaiko/tree-sitter-go-template](https://github.com/ngalaiko/tree-sitter-go-template) for the necessary Tree-sitter grammar.
 
 ## To-dos
 
