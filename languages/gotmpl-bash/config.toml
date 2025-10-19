@@ -1,0 +1,5 @@
+name = "Go Bash Template"
+grammar = "gotmpl"
+path_suffixes = ["sh.gotmpl", "sh.tmpl", "bash.gotmpl", "bash.tmpl"]
+tab_size = 2
+hard_tabs = false
