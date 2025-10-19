@@ -1,10 +1,11 @@
-name = "Go Template"
+name = "Go Text Template"
 grammar = "gotmpl"
 path_suffixes = [
     "gotmpl",
+    "txt.gotmpl",
+    "txt.gotpl",
+    "go.txt",
     "gtpl",
-    "tpl",
-    "tmpl"
 ]
 tab_size = 4
 hard_tabs = true
